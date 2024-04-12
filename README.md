@@ -4,7 +4,7 @@ Este repositorio tiene una API-REST realizada con Node.js y MongoDB la cual nos 
 
 ## Uso
 
-1.  Cloná el repositorio haciendo `git clone https://github.com/DiegoRMV/project-node-crud`
+1.  Cloná el repositorio haciendo `git clone https://github.com/DiegoRMV/project-node-crud.git`
 2.  Abrí el proyecto en su editor de código
 3.  Instalá de los paquetes y módulos requeridos: `npm install`
 4.  Agrega las variables de entorno que correspondan (base de datos) usando como plantilla `.env.template`
