@@ -17,4 +17,4 @@ Este repositorio tiene una API-REST realizada con Node.js y MongoDB la cual nos 
 -   **DOCKER**: Para poder levantar la imágen de Mongo en el contenedor
 -   **GIT**: Debe tener Instalado GIT
 
-## Acerca del tutorial [NODE.JS desde Cero en YouTube](https://youtu.be/?target=_blank/I17ln313Pjk?t=9301)
+## Acerca del tutorial [NODE.JS desde Cero en YouTube](https://youtu.be/I17ln313Pjk?t=9301?target=_blank)
