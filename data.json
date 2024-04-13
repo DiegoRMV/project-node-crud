@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Las aventuras de Alicia en el pais de las maravillas",
+        "author": "L. Carroll",
+        "genre": "Fantasia",
+        "publication_date": "1865"
+    },
+    {
+        "title": "1984",
+        "author": "G. Orwell",
+        "genre": "Drama",
+        "publication_date": "1948"
+    }
+]
